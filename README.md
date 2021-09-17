@@ -23,9 +23,19 @@
 <p>
 <h2> Connect with Me </h2>
 
-<a href="https://www.linkedin.com/in/brian-thomas-a34919209/"> <img align="left" alt="linkedin" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/downsign-linked-in.gif" width="200" height="200" target="blank"> </a>
+<a href="https://www.linkedin.com/in/brian-thomas-a34919209/"> <img align="left" alt="linkedin" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/downsign-linked-in.gif" width="120" height="120" target="blank"> </a>
 
-<a href="https://www.instagram.com/_b_r_i_a_n____/"> <img align="top" alt="linkedin" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/instagram-old-logo-to-new-logo-gif.gif" width="225" height="200" target="blank"> </a>
-
+<a href="https://www.instagram.com/_b_r_i_a_n____/"> <img align="top" alt="linkedin" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/instagram-old-logo-to-new-logo-gif.gif" width="145" height="120" target="blank"> </a>
 
 </p>
+
+<p>
+<h2>Languages</h2>
+<img align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/icons8-python.gif"  width="100" height="100">
+  
+<img align="top" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/icons8-developer%201.gif"  width="100" height="100">
+  
+  
+  
+  
+  
