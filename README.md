@@ -29,11 +29,23 @@
 
 </p>
 
-<p>
+
 <h2>Languages</h2>
+<p>
 <img align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/icons8-python.gif"  width="100" height="100">
+
+<img align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/Android.gif"  width="100" height="100">
+
+<img  align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/icons8-developer%201.gif"  width="100" height="100">
+
+<img align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/CSS.png"  width="90" height="100">
+</p>
+
+
+
   
-<img align="top" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/icons8-developer%201.gif"  width="100" height="100">
+  
+  
   
   
   
