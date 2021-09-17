@@ -16,3 +16,6 @@
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BRIAN-THOMAS-02&theme=highcontrast&hide_border=true&background=000019&fire=00cd00&ring=00cd00&stroke=ffffff&dates=ffae19)](https://git.io/streak-stats)
 
+<p>
+<img align="left" alt="tropy" src="https://github-profile-trophy.vercel.app/?username=BRIAN-THOMAS-02&theme=darkhub">
+</p>
