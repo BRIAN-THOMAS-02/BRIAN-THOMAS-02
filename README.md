@@ -21,6 +21,9 @@
 <img align="center" alt="tropy" src="https://github-profile-trophy.vercel.app/?username=BRIAN-THOMAS-02&theme=darkhub&&no-bg=true&&margin-w=5" height="240">
 </p>
 
+![](https://komarev.com/ghpvc/?username=BRIAN-THOMAS-02&style=plastic&color=4c004c)
+
+  
 <p>
 <h2> Connect with Me </h2>
 
