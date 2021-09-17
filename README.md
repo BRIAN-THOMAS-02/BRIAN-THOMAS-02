@@ -8,6 +8,7 @@
 
 </p>
   
+<p>
 <img align="right" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/Aritificial%20%20Intelligence.gif"  width="330" height="330">
 </p>
 
@@ -29,25 +30,29 @@
 
 </p>
 
-
-<h2>Languages</h2>
 <p>
-<img align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/icons8-python.gif"  width="100" height="100">
+<h2>Languages</h2>
 
-<img align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/Android.gif"  width="100" height="100">
+<img align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/icons8-python.gif" width="100" height="100">
 
-<img  align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/icons8-developer%201.gif"  width="100" height="100">
+<img align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/Android.gif" width="100" height="100">
 
-<img align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/CSS.png"  width="90" height="100">
+<img  align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/icons8-developer%201.gif" width="100" height="100">
+
+<img align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/CSS.png" width="90" height="100">
+<p>&nbsp;</p> 
 </p>
 
+<p>&nbsp;</p> 
 
+<p>
+<br />
+<h2>IDE's</h2>
 
+<img align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/PyCharm.png" width="100" height="100">
   
-  
-  
-  
-  
+<img align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/Visual%20Studio%20Code.png" width="100" height="100">  
+</p>  
   
   
   
