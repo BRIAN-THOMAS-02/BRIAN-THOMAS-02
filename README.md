@@ -49,10 +49,11 @@
 <br />
 <h2>IDE's</h2>
 
-<img align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/PyCharm.png" width="100" height="100">
+<img align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/PyCharrm.png" width="100" height="100">
   
-<img align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/Visual%20Studio%20Code.png" width="100" height="100">  
+<img align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/Visual%20Studio%20Code%20121.png" width="90" height="100">
+
+<img align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/Android%20Stuio.png" width="102" height="100">
+
 </p>  
-  
-  
   
