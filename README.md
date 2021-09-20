@@ -60,5 +60,7 @@
 
 <img align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/Jupyter%20logo.png" width="90" height="100">
 
+<img align="left" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/Collab.png" width="100" height="100">
+
 </p>  
   
