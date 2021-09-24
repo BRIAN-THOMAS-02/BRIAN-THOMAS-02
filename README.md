@@ -21,8 +21,13 @@
 <img align="center" alt="tropy" src="https://github-profile-trophy.vercel.app/?username=BRIAN-THOMAS-02&theme=darkhub&&no-bg=true&&margin-w=5" height="240">
 </p>
 
-![](https://komarev.com/ghpvc/?username=BRIAN-THOMAS-02&style=plastic&color=4c004c)
-
+<img align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRIAN-THOMAS-02&hide=php&theme=cobalt">
+  
+  
+<p>&nbsp;</p> 
+  
+<img align="center" alt="profile views" src="https://komarev.com/ghpvc/?username=BRIAN-THOMAS-02&style=plastic&color=4c004c">
+ 
   
 <p>
 <h2> Connect with Me </h2>
