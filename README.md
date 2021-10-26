@@ -9,7 +9,7 @@
 </p>
   
 <p>
-<img align="right" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/Aritificial%20%20Intelligence.gif"  width="310" height="330">
+<img align="right" alt="gif" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/Aritificial%20%20Intelligence.gif"  width="280" height="300">
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BRIAN-THOMAS-02&hide_border=true&bg_color=135,000000,400040&text_color=ffffff&title_color=00cd00)
