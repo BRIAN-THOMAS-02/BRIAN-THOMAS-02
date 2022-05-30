@@ -34,7 +34,7 @@
 
 <a href="https://www.linkedin.com/in/brian-daniel-thomas-a34919209/"> <img align="left" alt="linkedin" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/downsign-linked-in.gif" width="120" height="120" target="blank"> </a>
 
-<a href="https://www.instagram.com/_b_r_i_a_n____/"> <img align="top" alt="linkedin" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/instagram-old-logo-to-new-logo-gif.gif" width="140" height="120" target="blank"> </a>
+<a href="https://www.instagram.com/_b_r_i_a_n____/"> <img align="right" alt="linkedin" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/instagram-old-logo-to-new-logo-gif.gif" width="140" height="120" target="blank"> </a>
 
 </p>
 
