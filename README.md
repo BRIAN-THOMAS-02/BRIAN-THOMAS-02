@@ -37,7 +37,10 @@
 <a href="https://www.instagram.com/_b_r_i_a_n____/"> <img align="left" alt="instagram" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/instagram-old-logo-to-new-logo-gif.gif" width="140" height="120" target="blank"> </a>
 
 <a href="https://leetcode.com/Brian_Thomas/"> <img align="left" alt="leetcode" src="https://user-images.githubusercontent.com/87309254/179065481-f65134bf-21f4-4577-aa2d-425f253bfedf.png" width="120" height="120" target="blank"> </a>
-<br> <br> <br>
+
+<a href="https://www.youtube.com/channel/UC6Ga7tD7FUK_JX7J8cjOeeQ"> <img algn="left" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/youtube_logo_old_new1.gif" width="230" height="120" target="blank"> </a>
+
+<br> <br> 
 </p>
 
 
