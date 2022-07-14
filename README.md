@@ -40,7 +40,6 @@
 
 <a href="https://www.youtube.com/channel/UC6Ga7tD7FUK_JX7J8cjOeeQ"> <img algn="left" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/youtube_logo_old_new1.gif" width="230" height="120" target="blank"> </a>
 
-<br> <br> 
 </p>
 
 
