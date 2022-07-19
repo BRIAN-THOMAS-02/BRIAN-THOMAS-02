@@ -32,15 +32,15 @@
 <p>
 <h2> Connect with Me </h2>
 
-<a href="https://www.linkedin.com/in/brian-daniel-thomas-a34919209/"> <img align="left" alt="linkedin" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/downsign-linked-in.gif" width="120" height="100" target="blank"> </a>
+<a href="https://www.linkedin.com/in/brian-daniel-thomas-a34919209/"> <img align="left" alt="linkedin" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/downsign-linked-in.gif" width="100" height="100" target="blank"> </a>
 
-<a href="https://www.instagram.com/_b_r_i_a_n____/"> <img align="left" alt="instagram" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/instagram-old-logo-to-new-logo-gif.gif" width="140" height="100" target="blank"> </a>
+<a href="https://www.instagram.com/_b_r_i_a_n____/"> <img align="left" alt="instagram" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/instagram-old-logo-to-new-logo-gif.gif" width="120" height="100" target="blank"> </a>
 
-<a href="https://leetcode.com/Brian_Thomas/"> <img align="left" alt="leetcode" src="https://user-images.githubusercontent.com/87309254/179065481-f65134bf-21f4-4577-aa2d-425f253bfedf.png" width="120" height="100" target="blank"> </a>
+<a href="https://leetcode.com/Brian_Thomas/"> <img align="left" alt="leetcode" src="https://user-images.githubusercontent.com/87309254/179065481-f65134bf-21f4-4577-aa2d-425f253bfedf.png" width="100" height="100" target="blank"> </a>
 
-<a href="https://www.codechef.com/users/brian_thomas">  <img align="left" alt="codechef" src="https://user-images.githubusercontent.com/87309254/179824708-c937f74d-967b-43e5-8c0e-0ddf3adf516d.png" width="170" height="100" target="blank"> </a>
+<a href="https://www.codechef.com/users/brian_thomas">  <img align="left" alt="codechef" src="https://user-images.githubusercontent.com/87309254/179824708-c937f74d-967b-43e5-8c0e-0ddf3adf516d.png" width="150" height="100" target="blank"> </a>
 
-<a href="https://www.youtube.com/channel/UC6Ga7tD7FUK_JX7J8cjOeeQ"> <img algn="right" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/youtube_logo_old_new1.gif" width="230" height="100" target="blank"> </a>
+<a href="https://www.youtube.com/channel/UC6Ga7tD7FUK_JX7J8cjOeeQ"> <img algn="right" src="https://github.com/BRIAN-THOMAS-02/BRIAN-THOMAS-02/blob/main/youtube_logo_old_new1.gif" width="200" height="100" target="blank"> </a>
 
 </p>
 
